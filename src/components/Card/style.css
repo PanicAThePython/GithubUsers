@@ -1,0 +1,26 @@
+.user-img{
+    border-radius: 50%;
+    width: 150px;
+}
+.user-name{
+    font-size: 28px;
+    margin-top: -8px;
+    margin-bottom: 0px;
+    color: rgb(26, 23, 27);
+}
+.user-link{
+    font-size: 18px;
+    margin-top: -20px;
+    text-decoration: none;
+    color: rgb(47, 45, 48);
+}
+.user-link:hover{
+    text-decoration: underline;
+    color: rgb(157, 28, 168);
+}
+.user-card{
+    background-color: #e7e7e7;
+    padding: 20px;
+    margin: 30px 0px;
+    border-radius: 4px;
+}
